@@ -1,5 +1,5 @@
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚁𝚒𝚌𝚔𝚢 </strong> 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rickie457&left_color=black&right_color=blue) 
-<img src="./img/cherry.gif" align="right" height=250vh/ width=70%>
+<!-- <img src="./img/cherry.gif" align="right" height=250vh/ width=70%> -->
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
  - 🧑‍🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙱.𝚂𝚌. 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙻𝚊𝚜𝚜𝚘𝚗𝚍𝚎 𝚂𝚌𝚑𝚘𝚘𝚕 𝚘𝚏 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 (𝟸0𝟸𝟷-𝟸0𝟸𝟻)
