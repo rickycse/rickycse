@@ -19,9 +19,12 @@
 
 ## Languages and 𝚃𝚘𝚘𝚕𝚜:
 
-<img src="./img/python_icon512.png" height="40em" align="left"/>  
-<img src="./img/java-icon.jpg" height="40em" align="left"/>
-<img src="./img/html-css-javascript-icons.png" height="40em" align="left"/> 
+<img src="./img/python_icon512.png" height="40em" align="left" alt="Python.js"/>  
+<img src="./img/java-icon.jpg" height="40em" align="left" alt="Java.js"/>
+<img src="./img/html-css-javascript-icons.png" height="40em" align="left" alt="HTML_CSS_JS.js"/> 
+<img src="./img/vuejs.png" height="40em" align="left" alt="vue.js"/> 
+<img src="./img/mongodb.png" height="40em" align="left" alt="MongoDB"/> 
+<img src="./img/arduino.png" height="40em" align="left" alt="Arduino"/> 
 <br/>
 
 ## Contacts:
