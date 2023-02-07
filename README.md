@@ -20,12 +20,17 @@
 
 ## Languages and 𝚃𝚘𝚘𝚕𝚜:
 
-<img src="./img/python_icon512.png" height="0em" align="left" alt="Python.js"/>  
-<img src="./img/java-icon.jpg" height="40em" align="left" alt="Java.js"/>
-<img src="./img/html-css-javascript-icons.png" height="40em" align="left" alt="HTML_CSS_JS.js"/> 
-<img src="./img/vuejs.png" height="40em" align="left" alt="vue.js"/> 
-<img src="./img/mongodb.png" height="40em" align="left" alt="MongoDB"/> 
-<img src="./img/arduino.png" height="40em" align="left" alt="Arduino"/> 
+<img src="./img/python.png" height="50px" align="left" alt="Python.js"/>  
+<img src="./img/js.png" height="50px" align="left" alt="JavaScript.js"/>  
+<img src="./img/nodejs.jpg" height="50px" align="left" alt="Node.js"/>
+<img src="./img/java-icon.jpg" height="50px" align="left" alt="Java"/>
+<img src="./img/letter-c.png" height="50px" align="left" alt="C Language"/> 
+<img src="./img/html-5.png" height="50px" align="left" alt="HTML5.js"/>
+<img src="./img/css-3.png" height="50px" align="left" alt="CSS3.js"/>
+<img src="./img/react.png" height="50px" align="left" alt="React.js"/> 
+<img src="./img/vuejs.png" height="50px" align="left" alt="Vue.js"/> 
+<img src="./img/mysql.png" height="50px" align="left" alt="MySQL"/> 
+<img src="./img/mongodb.png" height="50px" align="left" alt="MongoDB"/> 
 <br/>
 
 ## Contacts:
