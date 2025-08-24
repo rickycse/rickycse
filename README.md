@@ -12,3 +12,4 @@ const about = {
   "goal": "My goal isn't to become the best programmer, but to become a good programmer with great habits."
 }
 ```
+Check out my 3D printing guide! https://3d-printing-ug.vercel.app/
